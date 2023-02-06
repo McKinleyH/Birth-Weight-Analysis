@@ -6,4 +6,5 @@ and shape of normal distribution.  Probability functons are then used to answer 
 This data project was performed as part of the Maven analytics course:  Statistics for Data Analysis
 
 Excel functions used include:  Skew, Standard Deviation, Quartile, Sequence, Norm.Dist, and Norm.Inv
+
 Charts:  Histogram
